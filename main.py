@@ -1,0 +1,13 @@
+print("Let's get to know you")
+print ()
+myName = input ('Your name is?: ')
+print ('cool name')
+my_age = input ("What's your favorite food?: ")
+print ("hmmmm......... delicious")
+fav_food = input ("and you're favorite music is?: ")
+country = input ("you're from where again?: ")
+print ('well that explains a lot 😂. Nah, nah. The music is cool though')
+replit = input ('one word for replit?:  ')
+
+print()
+print('So to summarize, your name is ' + myName + ", you're favorite food is "  + my_age + ", you're from the wonderful " + country + ' and you feel Replit is ' + replit)
